@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2
+
+- Fixed browser module path so live calculations execute.
+
 ## 1.0.1
 
 - Added complete Russian descriptions to every RU page.
