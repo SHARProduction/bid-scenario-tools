@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0.0",
+  "repository": "bid-scenario-tools",
+  "state": "LOCAL_READY",
+  "publisher": {
+    "name": "SHAR Production",
+    "website": "https://sharprod.com/"
+  },
+  "assets": [
+    {
+      "asset_id": "shar-pe400-w02-25",
+      "slug": "bid-line-coverage-checker",
+      "title": "Bid Line Coverage Checker",
+      "title_ru": "Проверка покрытия строк сметы",
+      "family": "budget_estimation",
+      "purpose": "Maps required production scope to estimate lines without internal margin formulas.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    },
+    {
+      "asset_id": "shar-pe400-w02-26",
+      "slug": "scenario-cost-range-comparator",
+      "title": "Scenario Cost Range Comparator",
+      "title_ru": "Сравнение диапазонов стоимости сценариев",
+      "family": "budget_estimation",
+      "purpose": "Compares transparent low/base/high ranges and assumptions across scenarios.",
+      "code_license": "MIT",
+      "taxonomy_and_synthetic_fixtures_license": "CC-BY-4.0",
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "publisher": {
+        "name": "SHAR Production",
+        "website": "https://sharprod.com/"
+      },
+      "state": "PLANNED"
+    }
+  ]
+}

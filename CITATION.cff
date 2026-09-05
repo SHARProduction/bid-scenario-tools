@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+title: "Bid Line Coverage Checker and Scenario Cost Range Comparator"
+authors:
+  - name: "SHAR Production"
+url: "https://sharprod.com/"
+license: MIT
+version: 1.0.0
