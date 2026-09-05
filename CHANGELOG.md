@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3
+
+- Prevented horizontal overflow on narrow mobile viewports.
+
 ## 1.0.2
 
 - Fixed browser module path so live calculations execute.
