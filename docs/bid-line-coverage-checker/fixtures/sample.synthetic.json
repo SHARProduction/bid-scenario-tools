@@ -1,0 +1,27 @@
+{
+  "requirements": [
+    "direction",
+    "casting",
+    "edit"
+  ],
+  "lines": [
+    {
+      "name": "Creative direction",
+      "covers": [
+        "direction"
+      ]
+    },
+    {
+      "name": "Cast",
+      "covers": [
+        "casting"
+      ]
+    },
+    {
+      "name": "Post",
+      "covers": [
+        "edit"
+      ]
+    }
+  ]
+}

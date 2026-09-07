@@ -1,0 +1,16 @@
+{
+  "scenarios": [
+    {
+      "name": "Lean",
+      "low": 100,
+      "base": 120,
+      "high": 150
+    },
+    {
+      "name": "Expanded",
+      "low": 180,
+      "base": 230,
+      "high": 300
+    }
+  ]
+}
